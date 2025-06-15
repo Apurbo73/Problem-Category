@@ -1,4 +1,4 @@
-### Problem Category
+### Problem Category:
 
 The program first reads the number of test cases, T. For each test case, it reads the integer x, which represents the problem’s point rating assigned by the admin. This value is then checked against the defined ranges to determine the problem’s difficulty category.
 
